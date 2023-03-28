@@ -12,8 +12,8 @@ Windows stores its user information, including crypted versions of the passwords
 This site provides CD and floppy images for end users to easily edit their forgotten passwords. But it also provides full source code and binary builds of the tools to allow others to use as they like for other purposes. Registry format documentation also available.
 <h1>Download</h1>
 CD release, see below on how to use
-
-cd140201.zip (~18MB) - Bootable CD image. (md5sum: f274127bf8be9a7ed48b563fd951ae9e)
+<br>
+cd140201.zip<a>https://pogostick.net/~pnh/ntpasswd/cd140201.zip</a> (~18MB) - Bootable CD image. (md5sum: f274127bf8be9a7ed48b563fd951ae9e)
 usb140201.zip (~18MB) - Files for USB install (md5sum: a60dbb91016d93ec5f11e64650394afb)
 The files inside the USB zip are exactly the same as on the CD. See below for instructions on how to make USB disk bootable.
 Floppy release (not updated anymore), see below on how to use them
