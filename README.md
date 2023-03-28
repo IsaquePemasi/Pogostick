@@ -13,13 +13,5 @@ This site provides CD and floppy images for end users to easily edit their forgo
 <h1>Download</h1>
 CD release, see below on how to use
 <br>
-cd140201.zip<a>https://pogostick.net/~pnh/ntpasswd/cd140201.zip</a> (~18MB) - Bootable CD image. (md5sum: f274127bf8be9a7ed48b563fd951ae9e)
-usb140201.zip (~18MB) - Files for USB install (md5sum: a60dbb91016d93ec5f11e64650394afb)
-The files inside the USB zip are exactly the same as on the CD. See below for instructions on how to make USB disk bootable.
-Floppy release (not updated anymore), see below on how to use them
-
-bd080526.zip (~1.4M) - Bootdisk image (md5sum: 37889e4c540504e59132bdcdfe7f9bb7)
-drivers1-080526.zip (~310K) - Disk drivers (mostly PATA/SATA) (md5sum: 72ac1731c6ba735d0ac2746a30dbc3ee)
-drivers2-080526.zip (~1.2M) - Disk drivers (mostly SCSI) (md5sum: 30172bec657c85a5f1a0b43601452fb7)
-Previous versions may sometimes be found here (also my site)
-NOTE: Versions before 0704xx will corrupt the disk on VISTA/win7/8!
+<h2>cd140201.zip</h2> - Bootable CD image. (md5sum: f274127bf8be9a7ed48b563fd951ae9e) - ziphttps://pogostick.net/~pnh/ntpasswd/cd140201.zip (~18MB) <br>
+<h2>usb140201.zip</h2> (~18MB) - Files for USB install (md5sum: a60dbb91016d93ec5f11e64650394afb) - https://pogostick.net/~pnh/ntpasswd/usb140201.zip <br>
