@@ -14,5 +14,5 @@ This site provides CD and floppy images for end users to easily edit their forgo
 <h6>Note: Some links may be offsite.</h6>
 CD release, see below on how to use
 <br>
-<h2>cd140201.zip</h2> (~18MB) - Bootable CD image. (md5sum: f274127bf8be9a7ed48b563fd951ae9e) - ziphttps://pogostick.net/~pnh/ntpasswd/cd140201.zip  <br>
+<h2>cd140201.zip</h2> (~18MB) - Bootable CD image. (md5sum: f274127bf8be9a7ed48b563fd951ae9e) - https://pogostick.net/~pnh/ntpasswd/cd140201.zip  <br>
 <h2>usb140201.zip</h2> (~18MB) - Files for USB install (md5sum: a60dbb91016d93ec5f11e64650394afb) - https://pogostick.net/~pnh/ntpasswd/usb140201.zip <br>
