@@ -11,7 +11,8 @@ There is also a registry editor and other registry utilities that works under li
 Windows stores its user information, including crypted versions of the passwords, in a file called 'sam', usually found in \windows\system32\config. This file is a part of the registry, in a binary format previously undocumented, and not easily accessible. But thanks to a German(?) named B.D, I've now made a program that understands the registry.
 This site provides CD and floppy images for end users to easily edit their forgotten passwords. But it also provides full source code and binary builds of the tools to allow others to use as they like for other purposes. Registry format documentation also available.
 <h1>Download</h1>
+<h6>Note: Some links may be offsite.</h6>
 CD release, see below on how to use
 <br>
-<h2>cd140201.zip</h2> - Bootable CD image. (md5sum: f274127bf8be9a7ed48b563fd951ae9e) - ziphttps://pogostick.net/~pnh/ntpasswd/cd140201.zip (~18MB) <br>
+<h2>cd140201.zip</h2> (~18MB) - Bootable CD image. (md5sum: f274127bf8be9a7ed48b563fd951ae9e) - ziphttps://pogostick.net/~pnh/ntpasswd/cd140201.zip  <br>
 <h2>usb140201.zip</h2> (~18MB) - Files for USB install (md5sum: a60dbb91016d93ec5f11e64650394afb) - https://pogostick.net/~pnh/ntpasswd/usb140201.zip <br>
